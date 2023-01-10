@@ -32,3 +32,14 @@ My first Desktop APP with using PySimpleGUI based on Python... A simple Desktop 
 <p align = "center">
     <img src="https://github.com/manzitlo/Zip_CreateAndExtract/blob/master/screenshots/final%20version%20(done).jpg" width="750">
 </p>
+
+
+## 
+
+<p align = "center"> <b>---------------------------------------------------The same GUI for zip extracting-------------------------------------------------------</b> </p>
+
+<p align = "center"> They share the same action processing </p>
+
+<p align = "center">
+    <img src="https://github.com/manzitlo/Zip_CreateAndExtract/blob/master/screenshots/GUI%20of%20zip%20extracting.jpg" width="750">
+</p>
